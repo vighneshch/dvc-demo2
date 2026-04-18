@@ -1,0 +1,4 @@
+[core]
+    remote = jyothsnaremote
+['remote "jyothsnaremote"']
+    url = gs://dvc_demo_2
